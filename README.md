@@ -10,6 +10,8 @@
 
 **本作品的代码中使用了开源项目 [MultiButton](https://github.com/0x1abin/MultiButton)。**
 
+本作品的 PCB 开源于 [立创开源社区](https://oshwhub.com/dt9025a/colorful_hifumi_back)。
+
 ## 演示视频
 
 [Bilibili Link](https://www.bilibili.com/video/BV1DG411v7Y5/)
